@@ -1,0 +1,48 @@
+html {
+    font-family: "Poppins", sans-serif;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+.brand-nav {
+    text-decoration: none;
+    color: #000;
+}
+
+.sign {
+    text-decoration: none;
+    color: #000;
+}
+
+.card {
+    background: rgb(230, 230, 230);
+    width: 19rem;
+    padding: 8px 10px 8px 10px;
+    border-radius: 6px;
+}
+
+.container {
+    padding: 16px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 10px;
+}
